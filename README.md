@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @priyankasuyal
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on coders and learners
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Priyanka Suyal
 
-<!---
-priyanka18suyal/priyanka18suyal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Software Engineer focused on high-performance JavaScript and System Architecture.
+
+I am currently advancing beyond syntax to master the V8 Engine and Memory Management, while simultaneously expanding my capabilities in UI/UX design.
+
+- Focus: Advanced JavaScript Mechanics, Algorithms, Systems Design
+- Currently Learning: Figma & Interface Prototyping
+- Collaboration: Open to complex logic challenges and open-source tooling
+
+"First, solve the problem. Then, write the code."
